@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-02T14:24:20.658740Z",
+      "format": null,
+      "last_modified": "2022-03-02T14:24:01.078876Z",
+      "mimetype": null,
+      "name": "SimpleExample.ipynb",
+      "path": "SimpleExample.ipynb",
+      "size": 1606,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-02T14:24:20.658740Z",
+  "format": "json",
+  "last_modified": "2022-03-02T14:24:20.658740Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
